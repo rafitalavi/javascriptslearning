@@ -1,0 +1,16 @@
+h1{
+    color: aqua;
+    text-decoration: line-through;
+}
+#heading{
+    text-decoration: underline;
+}
+.secondaryHeading{
+    color: cadetblue;
+}
+.box{
+    margin: 5px;
+    padding: 30px;
+    background-color: aqua;
+    text-align: center;
+}
