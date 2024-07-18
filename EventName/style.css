@@ -1,0 +1,14 @@
+.box{
+    margin: 5px;
+    padding: 30px;
+ 
+    text-align: center;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}

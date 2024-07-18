@@ -14,3 +14,18 @@ h1{
     background-color: aqua;
     text-align: center;
 }
+.box1{
+    margin: 5px;
+    padding: 30px;
+    background-color: aqua;
+    text-align: center;
+}
+.para{
+    margin: 5px;
+    padding: 30px;
+    background-color: aqua;
+    text-align: center;   
+}
+.newClass{
+    color: antiquewhite;
+}
